@@ -57,6 +57,10 @@ From your terminal/command line:
 * `/home` Route
 
     ![](https://kulsumansari.github.io/webpage-data/userFrontendImages/home.png)
+    
+* Error Modal
+
+   ![](https://kulsumansari.github.io/webpage-data/userFrontendImages/ErrorModal.png)
 
 
 ## Folder Structure
