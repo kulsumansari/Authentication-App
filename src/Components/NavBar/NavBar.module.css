@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navigation {
+  background-color: #251919;
+  color: #ecbeca;
+  height:12vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width:100%;
+  position: fixed;
+  top:0;
+  left: 0;
+  z-index: 10;
+}
+
+.companyLogo {
+  width: 150px;
+}
+.companyLogo h1{
+  font-family: 'Rampart One', cursive;
+  font-size: 3rem;
+}
+
+.navContainer {
+  width: 70%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.navItem {
+  list-style: none;
+  margin: 10px 20px;
+  margin-left: 10px;
+}
+
+.navLink {
+  color: #ecbeca;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+.navLink:hover{
+  text-decoration:underline;
+}
+
+.btn {
+    padding: 8px 20px;
+    background-color: #d49caa;
+    color: black;
+    border-radius: 100px;
+}
+
+.btn:hover {
+  text-decoration: none;
+  background-color: #e7b9c6ef;
+}
+
+
+

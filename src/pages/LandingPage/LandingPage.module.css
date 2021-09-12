@@ -1,0 +1,31 @@
+.header{
+    height: 80vh;
+    width: 100%;
+    overflow: hidden;
+    background: linear-gradient(#ecbecabb,rgba(0, 0, 0, 0.8)), url("https://bit.ly/2rlzaXi"); 
+}
+
+img{
+   object-fit: cover;   
+}
+
+.section{
+    position: fixed;
+    top:40%;
+    left:40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.8rem;
+}
+
+.btn{
+    text-decoration: none;
+    color: #251919;
+    border:3px solid #251919;
+    padding: 0px 20px;
+    font-weight: 600;
+}
+.btn:hover{
+    font-size: 1.9rem;
+}

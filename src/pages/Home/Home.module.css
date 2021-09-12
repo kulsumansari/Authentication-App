@@ -1,0 +1,9 @@
+.container{
+    width: 320px;
+    height: 12vh;
+    padding: 1.2rem;
+    background: #251919;
+    color: #ecbeca;
+    margin : 40vh auto;
+    align-items: center;
+}

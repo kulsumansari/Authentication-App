@@ -1,0 +1,19 @@
+.footer{
+    background-color: #130d0d;
+    color: #ecbeca;
+    height:12vh;
+    width:100%;
+    padding: 10px;
+    text-align: center;
+    position: fixed; 
+    bottom: 0; 
+  }
+  .footerLinkHeader{
+    margin-bottom: 5px;
+  }
+  .footerLink{
+    display: inline-block;
+    padding-right:9px;
+    font-size: 1.4rem;
+    padding-top:10px;
+  }
