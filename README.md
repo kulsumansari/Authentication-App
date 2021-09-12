@@ -1,6 +1,6 @@
 
 # Pass.me 
-Pass.me is an Authentication App, it makes API calls to **[Backend Server](https://github.com/kulsumansari/User-API)** for Registration of new user and Logging of registered users.
+Pass.me is an Authentication App, it makes API calls to [Backend Server](https://github.com/kulsumansari/User-API) for Registration of new user and Logging of registered users.
 
 **[Live Link](https://613e46b502574d000784de7d--mystifying-benz-c28358.netlify.app/)**
 
