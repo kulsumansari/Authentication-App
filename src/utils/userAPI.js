@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:4000/users'
+const baseUrl = 'https://user-backend-server.herokuapp.com/users'
 
 export const userLogin= async (email , password)=>{
     try{
