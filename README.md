@@ -4,8 +4,8 @@ Pass.me is an Authentication App, it makes API calls to [Backend Server](https:/
 
 **[Pass.me - Live Link](https://mystifying-benz-c28358.netlify.app/)**
 
-**[Server Live Link](https://user-backend-server.herokuapp.com)**
-
+<!-- //**[Server Live Link](https://user-backend-server.herokuapp.com)**
+ -->
 ## Introduction
 
 A simple frontend Application for login and registration, created with React JS . This Application supports functionalities for user Registeration and Login via API call to backend server. User login state (whether user is logged in or not) is maintained through React Context API. Upons successful login user will be able to access Home Page .
